@@ -1,0 +1,4 @@
+JobId,EmployeeId,JobDetailsId,type
+1,1,1,Regular
+2,2,2,PartTime
+3,3,3,Contractual

@@ -1,0 +1,4 @@
+EmployeeId,FirstName,LastName,Email,Phone,Address,Birthday
+1,Tulfo,Ramon,rmtulfo@email.com,+639994206969,Tanauan City,'2001-01-01'
+2,Foo,Bin,bf@nice.com,+639604206970,Darasa,'2001-01-02'
+3,Ming,Ming,mingming@cat.com,+639604206291,Cat Land,'2001-01-03'

@@ -1,0 +1,4 @@
+JobDetailId,CompanyName,Role,Address,HourlyRate,MonthlyRate,ContractualRate
+1,Company A,Database Manager,Quezon City,800,20000,30000
+2,Company B,Lead Programmer,Darasa,750,19000,25000
+3,Company C,Junior Developer,Tondo,540,15000,20000
